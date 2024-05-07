@@ -34,6 +34,8 @@ You could use [flit](https://flit.pypa.io/en/stable) and [pyproject.toml](pyproj
 
 ## Ops
 
+- Softargmax (1D/2D/3D)
+
 ## License
 
 Unless noted inside the file, all code is released under the MIT license (see [LICENSE](LICENSE) for details).
